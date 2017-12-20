@@ -5,6 +5,9 @@
 # Video
 * https://www.youtube.com/watch?v=zXTEWFb_6w4
 
+# Blog POST
+* https://n-o-d-e.net/meshdevice.html
+
 # Project Goals
 
 * Little, portable, inexpensive device that fits in your pocket or clips onto your backpack and communicates with your phone or laptop over Bluetooth.
