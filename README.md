@@ -5,7 +5,7 @@
 # Video
 * https://www.youtube.com/watch?v=zXTEWFb_6w4
 
-# Blog POST
+# Blog Post
 * https://n-o-d-e.net/meshdevice.html
 
 # Project Goals
